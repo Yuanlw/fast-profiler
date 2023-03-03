@@ -4,7 +4,7 @@
 ## Usage
 
 ```bash
-wget https://raw.githubusercontent.com/iqiancheng/fast-profiler/master/show-busy-java-threads.sh
+wget https://github.com/Yuanlw/fast-profiler/master/show-busy-java-threads.sh
 sudo chmod u+x show-busy-java-threads.sh
 sudo ./show-busy-java-threads.sh
 ```
@@ -72,5 +72,4 @@ top命令找出有问题Java进程及线程id：
 
 查问题时，会要多次这样操作以确定问题，上面过程太繁琐太慢了。
 
-## Reference
-<https://github.com/oldratlee/useful-scripts>
+
